@@ -1,4 +1,4 @@
-# Digital Store Platform 🛒💻
+# Digital Store Platform 🛒
 
 ## Overview
 
