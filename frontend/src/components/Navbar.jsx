@@ -22,7 +22,7 @@ function Navbar() {
                   className="font-semibold tracking-widest text-2xl 
                     bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary"
                 >
-                  ShelfSpace
+                  Stashly
                 </span>
               </div>
             </Link>
