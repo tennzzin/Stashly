@@ -25,9 +25,7 @@ Digital Store Platform is a full-stack web application designed to help users **
    - `cd backend`
    - `npm install`
    - Create a `.env` file in `/backend` and add your PostgreSQL connection string:  
-     ```
-     DATABASE_URL=your_postgresql_connection_string
-     ```
+     - `DATABASE_URL=your_postgresql_connection_string`
    - Optionally seed the database with sample products:  
      - `node seeds/products.js`
    - Start the backend server:  
