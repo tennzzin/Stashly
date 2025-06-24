@@ -1,8 +1,8 @@
-# Digital Store Platform 🛒
+# Stashly 🛒
 
 ## Overview
 
-Digital Store Platform is a full-stack web application for managing digital product listings. Users can add, update, and delete products through an intuitive interface, with a responsive frontend and robust backend. The project features a secure RESTful API, real-time UI updates, and dynamic theming—demonstrating practical full-stack engineering skills with a modern JavaScript stack.
+Stashly is a full-stack web application for managing digital product listings. Users can add, update, and delete products through an intuitive interface, with a responsive frontend and robust backend. The project features a secure RESTful API, real-time UI updates, and dynamic theming—demonstrating practical full-stack engineering skills with a modern JavaScript stack.
 
 ## Features
 
