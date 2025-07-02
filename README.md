@@ -18,7 +18,7 @@ Stashly is a full-stack web application for managing digital product listings. U
 
 1. **Clone the Repository:**  
    - `git clone https://github.com/tennzzin/Stashly.git`
-   - `cd DigitalStorePlatform`
+   - `cd Stashly`
 
 2. **Set Up the Backend:**  
    - `cd backend`
